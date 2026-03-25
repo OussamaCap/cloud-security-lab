@@ -1,2 +1,2 @@
 # cloud-security-lab
-documentation through my cloud security learning
+documentation throught my cloud security learning
