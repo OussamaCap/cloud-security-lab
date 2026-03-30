@@ -1,4 +1,4 @@
-# cloud-security-lab
+# Cloud-Security-Lab
 documentation throught my cloud security learning journey.
 
 ## What is Cloud Computing:
