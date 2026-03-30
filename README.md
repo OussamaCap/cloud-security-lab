@@ -26,7 +26,7 @@ Depending on the clould service model, the responsability of maintaining the ser
 You only pay for the ressources you use. Cost effective compared to investing in your own infrastructure.
 No risk of over or under spending on ressources. 
 
-## use Openai API (Instruction tuned LLM)
+## Usage of the OpenAI API (Instruction tuned LLM)
 <img width="692" height="254" alt="image" src="https://github.com/user-attachments/assets/780f73c5-8a73-4450-b098-30dd187cee70" />
 
 
