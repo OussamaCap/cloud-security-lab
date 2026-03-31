@@ -31,6 +31,8 @@ No risk of over or under spending on ressources.
 
 <img width="685" height="473" alt="image" src="https://github.com/user-attachments/assets/20e935c3-ab3c-437b-bc43-2f9d6444fdfe" />
 
+<img width="681" height="422" alt="image" src="https://github.com/user-attachments/assets/70da9308-e033-4a80-ab96-b6b7d40d916c" />
+
 --> Using the OpenAI API locally is fee-based. I used the DeepLearning.AI platform to use the service.
 
 ## Pytest for test automation
