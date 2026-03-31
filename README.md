@@ -29,7 +29,9 @@ No risk of over or under spending on ressources.
 ## Usage of the OpenAI API (Instruction tuned LLM)
 <img width="692" height="254" alt="image" src="https://github.com/user-attachments/assets/780f73c5-8a73-4450-b098-30dd187cee70" />
 
---> Using the OpenAI API locally is fee-based.
+<img width="685" height="473" alt="image" src="https://github.com/user-attachments/assets/20e935c3-ab3c-437b-bc43-2f9d6444fdfe" />
+
+--> Using the OpenAI API locally is fee-based. I used the DeepLearning.AI platform to use the service.
 
 ## Pytest for test automation
 <img width="714" height="417" alt="image" src="https://github.com/user-attachments/assets/aae32e96-f5ce-4ed9-aee0-6c960d5aea32" />
