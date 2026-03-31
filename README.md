@@ -31,5 +31,9 @@ No risk of over or under spending on ressources.
 
 --> Using the OpenAI API locally is fee-based.
 
+## Pytest for test automation
+<img width="714" height="417" alt="image" src="https://github.com/user-attachments/assets/aae32e96-f5ce-4ed9-aee0-6c960d5aea32" />
+
+
 
 
