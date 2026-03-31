@@ -29,7 +29,7 @@ No risk of over or under spending on ressources.
 ## Usage of the OpenAI API (Instruction tuned LLM)
 <img width="692" height="254" alt="image" src="https://github.com/user-attachments/assets/780f73c5-8a73-4450-b098-30dd187cee70" />
 
-Using the OpenAI API locally is fee-based.
+--> Using the OpenAI API locally is fee-based.
 
 
 
