@@ -41,14 +41,18 @@ No risk of over or under spending on ressources.
 ## Download repository and upload new files with Git
 git clone https://github.com/OussamaCap/cloud-security-lab.git
 <img width="734" height="145" alt="image" src="https://github.com/user-attachments/assets/f7a14961-be44-4241-b987-7f2ee41f66e6" />
+
 cd cloud-security-lab
 git status
 <img width="595" height="192" alt="image" src="https://github.com/user-attachments/assets/abe0a748-8874-49d6-a644-42acad5bd491" />
+
 git add .
 git status
 <img width="484" height="208" alt="image" src="https://github.com/user-attachments/assets/e503d766-8b22-4e85-b504-21b8a51f06b2" />
+
 git commit -m "logfile-parsing"
 <img width="645" height="140" alt="image" src="https://github.com/user-attachments/assets/10dd0c6c-9738-4a3f-961c-b19a2f9eff3b" />
+
 git push
 <img width="558" height="187" alt="image" src="https://github.com/user-attachments/assets/08a5c67e-4851-4351-a711-e1057801fa3e" />
 
