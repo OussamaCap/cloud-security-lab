@@ -62,6 +62,9 @@ git push
 ## Workspace Creation on AWS
 <img width="994" height="399" alt="image" src="https://github.com/user-attachments/assets/8da90e5d-5064-40d0-85aa-91eb5e669495" />
 
+## CloudTrail
+<img width="1674" height="486" alt="image" src="https://github.com/user-attachments/assets/d54205a1-23ca-4480-89cd-d6e31f7cf64a" />
+
 
 
 
