@@ -56,6 +56,11 @@ git commit -m "logfile-parsing"
 git push
 <img width="558" height="187" alt="image" src="https://github.com/user-attachments/assets/08a5c67e-4851-4351-a711-e1057801fa3e" />
 
+## Penetration Testing
+ DIRB is a powerful tool designed for authorized penetration testing and ethical hacking. Should be used only to scan own systems or systems I have explicit permission to test.
+
+## Workspace Creation on AWS
+<img width="994" height="399" alt="image" src="https://github.com/user-attachments/assets/8da90e5d-5064-40d0-85aa-91eb5e669495" />
 
 
 
